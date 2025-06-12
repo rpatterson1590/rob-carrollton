@@ -1,0 +1,56 @@
+.banner {
+  background-color: #002e4d;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+.banner nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.content {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+.resource {
+  background-color: #f9f9f9;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-left: 5px solid #005a87;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.resource h3 {
+  margin-top: 0;
+}
+
+a {
+  color: #005a87;
+}
+
+.cheatsheet {
+  background-color: #fff3cd;
+  border-left: 6px solid #ffc107;
+  padding: 1rem 1.5rem;
+  margin-top: 2rem;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.cheatsheet h2 {
+  margin-top: 0;
+  color: #333;
+}
+
+.cheatsheet ul {
+  padding-left: 1.2rem;
+}
+
+.cheatsheet ul li {
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+}
